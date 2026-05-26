@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "HitachiSpaceTask2026/1.0.0": {
+        "runtime": {
+          "HitachiSpaceTask2026.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HitachiSpaceTask2026/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

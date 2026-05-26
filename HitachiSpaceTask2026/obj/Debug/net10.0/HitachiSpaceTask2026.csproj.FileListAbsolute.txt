@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\HitachiSpaceTask2026\HitachiSpaceTask2026\bin\Debug\net10.0\HitachiSpaceTask2026.exe
+C:\Users\User\Desktop\HitachiSpaceTask2026\HitachiSpaceTask2026\bin\Debug\net10.0\HitachiSpaceTask2026.deps.json
+C:\Users\User\Desktop\HitachiSpaceTask2026\HitachiSpaceTask2026\bin\Debug\net10.0\HitachiSpaceTask2026.runtimeconfig.json
+C:\Users\User\Desktop\HitachiSpaceTask2026\HitachiSpaceTask2026\bin\Debug\net10.0\HitachiSpaceTask2026.dll
+C:\Users\User\Desktop\HitachiSpaceTask2026\HitachiSpaceTask2026\bin\Debug\net10.0\HitachiSpaceTask2026.pdb
+C:\Users\User\Desktop\HitachiSpaceTask2026\HitachiSpaceTask2026\obj\Debug\net10.0\HitachiSpaceTask2026.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\HitachiSpaceTask2026\HitachiSpaceTask2026\obj\Debug\net10.0\HitachiSpaceTask2026.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\HitachiSpaceTask2026\HitachiSpaceTask2026\obj\Debug\net10.0\HitachiSpaceTask2026.AssemblyInfo.cs
+C:\Users\User\Desktop\HitachiSpaceTask2026\HitachiSpaceTask2026\obj\Debug\net10.0\HitachiSpaceTask2026.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HitachiSpaceTask2026\HitachiSpaceTask2026\obj\Debug\net10.0\HitachiSpaceTask2026.dll
+C:\Users\User\Desktop\HitachiSpaceTask2026\HitachiSpaceTask2026\obj\Debug\net10.0\refint\HitachiSpaceTask2026.dll
+C:\Users\User\Desktop\HitachiSpaceTask2026\HitachiSpaceTask2026\obj\Debug\net10.0\HitachiSpaceTask2026.pdb
+C:\Users\User\Desktop\HitachiSpaceTask2026\HitachiSpaceTask2026\obj\Debug\net10.0\HitachiSpaceTask2026.genruntimeconfig.cache
+C:\Users\User\Desktop\HitachiSpaceTask2026\HitachiSpaceTask2026\obj\Debug\net10.0\ref\HitachiSpaceTask2026.dll
